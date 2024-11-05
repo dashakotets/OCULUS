@@ -84,3 +84,28 @@ body{
   bottom: 0;
   right: -2px;
 }
+
+.top{
+  min-height: calc(100vh - 81px);
+  background-image: url(../images/top-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+
+}
+
+.title{
+  padding-top: 16%;
+  font-size: 96px;
+  margin-bottom: 10px;
+}
+
+.subtitle{
+  font-size: 36px;
+  margin-bottom: 5px;
+}
+
+.top-text{
+  font-size: 13px;
+  margin-bottom: 50px;
+}
